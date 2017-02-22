@@ -1,0 +1,24 @@
+#
+# Copyright (C) 2016, Vector Li (idorax@126.com)
+#
+
+While I'm leading XRC project, Letty Liu and I are interested in translating
+book "InfiniBand Network Architecture" to Chinese so as to deeply understand
+how InfiniBand works.
+
+Uptill now, we have done:
+o Chapter 00 : About this book				# By Vector Li
+o Chapter 01 : Basic Terms and Concepts			# By Vector Li
+o Chapter 02 : Intro to Attributes and Managers		# By Vector Li
+o Chapter 03 : QP: Message Transfer Mechanism		# By Letty Liu
+o Chapter 04 : Intro to Transport Types			# By Letty Liu
+o Chapter 05 : Intro to Send/Receive Operations		# By Letty Liu
+
+TBD:
+o Chapter 06 : Division of Labor
+o Chapter 07 : Subnet-Local Addressing
+o Chapter 08 : Global Addressing
+o Chapter 09 : Intro to the Managers
+o Chapter 10 : Intro to Connection Establishment
+o Chapter 11 : PSN Usage
+...
