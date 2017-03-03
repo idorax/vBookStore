@@ -1,0 +1,26 @@
+#
+# Copyright (C) 2017, Vector Li (vlhn@sohu.com)
+#
+
+I'm very interested in virtualization, so translate book
+"Mastering KVM Virtualization" which can be found at
+    http://shop.oreilly.com/product/9781784399054.do
+to Chinese so as to well understand how Linux KVM works.
+
+o Chapter 01 : Understanding Linux Virtualization
+
+TBD:
+o Chapter 02 : KVM Internals
+o Chapter 03 : Setting Up Standalone KVM Virtualization
+o Chapter 04 : Getting Started with libvirt and Creating Your First Virtual Machines
+o Chapter 05 : Network and Storage
+o Chapter 06 : Virtual Machine Lifecycle Management
+o Chapter 07 : Templates and Snapshots
+o Chapter 08 : Kimchi -- An HTML5-Based Management Tool for KVM/libvirt
+o Chapter 09 : Software-Defined Networking for KVM Virtualization
+o Chapter 10 : Installing and Configuring the Virtual Datacenter Using oVirt
+o Chapter 11 : Starting Your First Virtual Machine in oVirt
+o Chapter 12 : Deploying OpenStack Private Cloud backed by KVM Virtualization
+o Chapter 13 : Performance Tuning and Best Practices in KVM
+o Chapter 14 : V2V and P2V Migration Tools
+o Appendix   : Converting a Virtual Machine into a Hypervisor
