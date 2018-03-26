@@ -13,8 +13,6 @@
 > 毫无疑问，一味地拿自己和别人比较绝对会使我们感到沮丧。因为，我们通常看到的都是他们的胜利、成功和优势。
 
 #### 15. Forget about `transport hikes`, CPF cuts, ERP and GST `raises`. There is so much more in store, greater things to see, new heights to reach, new depths to `hollow`. Now is the time to dream.
->
-不要再为交通费上涨、公积金缴纳率削减、公路电子收费和消费税的提高而有忧心忡忡！生命中还有更多的期待和更美好的事物，我们要不断地攀登新的高峰，挖掘新的奥秘。现在正是绽放梦想的时候。
-
+> 不要再为交通费上涨、公积金缴纳率削减、公路电子收费和消费税的提高而忧心忡忡！生命中还有更多的期待和更美好的事物，我们要不断地攀登新的高峰，挖掘新的奥秘。现在正是绽放梦想的时候。
 
 **`END`** `03/25/2018`
