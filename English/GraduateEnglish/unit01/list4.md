@@ -1,6 +1,6 @@
 ## `UNIT 01`-`LIST 4`
 
-#### 16. If someone hurts you, `betrays` you or breaks your heart, `forgive` them for they have helped you learn about trust and the `importance` of being `cautions` to whom you open your heart to.
+#### 16. If someone hurts you, `betrays` you or breaks your heart, `forgive` them for they have helped you learn about trust and the `importance` of being `cautious` to whom you open your heart to.
 > 如果有人伤害了你，背叛了你，或者伤透了你的心，请原谅他们，因为正是他们让你明白了信任和对他人敞开心扉的时候需要保持谨慎的重要性。
 
 #### 17. `Unlike` apples and peaches, trust doesn't grow on trees. A `reputation` for being `worthy` of people' trust has to be developed through a `consistent`, mindful pattern of behavior.
@@ -12,7 +12,7 @@
 #### 19. The beauty we `fashion` cannot be `dimmed` by death. Our `flesh` may `perish`, our hands will `wither`, but that which they create in beauty and goodness and truth lives on for all time to come.
 > 我们所创造的美丽不会因为死亡而变得暗淡。我们的肉体也许会腐烂，双手会衰弱无力，但是这双手创造的美丽、善良和真理会永垂不朽。
 
-#### 20. As you travel through life there are always those times when `decisions` just have to be made when the choices are hard, and `solutions` seem `scare` and the rain seems to `soak` your `parade`!
+#### 20. As you travel through life there are always those times when `decisions` just have to be made when the choices are hard, and `solutions` seem `scarce` and the rain seems to `soak` your `parade`!
 > 在人生旅途中，总有一些时候，你不得不作出艰难的选择，这时的解决方案少之又少，雨水也似乎将你前行的道路浇得湿透！
 
 
