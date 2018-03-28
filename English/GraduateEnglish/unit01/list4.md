@@ -3,7 +3,7 @@
 #### 16. If someone hurts you, `betrays` you or breaks your heart, `forgive` them for they have helped you learn about trust and the `importance` of being `cautious` to whom you open your heart to.
 > 如果有人伤害了你，背叛了你，或者伤透了你的心，请原谅他们，因为正是他们让你明白了信任和对他人敞开心扉的时候需要保持谨慎的重要性。
 
-#### 17. `Unlike` apples and peaches, trust doesn't grow on trees. A `reputation` for being `worthy` of people' trust has to be developed through a `consistent`, mindful pattern of behavior.
+#### 17. `Unlike` apples and peaches, trust doesn't grow on trees. A `reputation` for being `worthy` of peoples' trust has to be built and developed through a `consistent`, mindful pattern of behavior.
 > 与苹果和桃子不同，信任不会自己长在树上。树立值得信赖的美誉，唯有通过始终如一、谨小慎微的处事方式才能够得以实现。
 
 #### 18. We are `reponsible` for our life. And nobody else. Although all success requires the `assistance` and `cooperation` of others, our success can never be left to anyone else. Luck is not a `strategy`.
