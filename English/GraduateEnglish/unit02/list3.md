@@ -1,4 +1,3 @@
-
 ## `UNIT 02`-`LIST 3`
 
 #### 36. Fears, even the most basic ones, can totally destroy our `ambition`s. Fear can destroy `fortune`s. Fear can destory `relationship`s. Fear, if left `unchecked`, can destroy our lives. Fear is one of the many enemies `lurk`ing inside us.
